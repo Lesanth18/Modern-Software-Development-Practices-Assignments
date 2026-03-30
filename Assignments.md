@@ -40,10 +40,10 @@
 
 # 5 Certification Requirement
 > - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+    http://verify.skilljar.com/c/fjgt6nnec5ps 
+
+> Google Drive Link:
+  https://drive.google.com/drive/u/0/folders/1DtzFQNafhfUgbEwnunS0FSEvdUnO0vJm
 
 # 6 GitHub Profile README
 > Kindly submit your GitHub Profile README URL
