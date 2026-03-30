@@ -2,22 +2,25 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
->
-> Kindly submit the verification link here 
+    http://verify.skilljar.com/c/4wgdtts27dns
+
 > - Introduction to Agent Skills
->
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+    http://verify.skilljar.com/c/jz78kjq2kdqn
+ 
+> Google Drive Link: 
+    https://drive.google.com/drive/folders/1DtzFQNafhfUgbEwnunS0FSEvdUnO0vJm?usp=drive_link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
->
+
 > - Kindly submit the GitHub Repo URL
->
+    https://github.com/Lesanth18/lesanth-portfolio
+
 > - Kindly submit the Vercel Deployment URL
->
+    https://lesanth-portfolio.vercel.app/
+
 > - Kindly submit the GitHub Pages (Documentation) URL
+    https://github.com/Lesanth18/lesanth-portfolio/blob/main/DOCUMENTATION_INDEX.md
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
