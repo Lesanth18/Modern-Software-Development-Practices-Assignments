@@ -24,17 +24,19 @@
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
->
+
 > - Kindly submit the GitHub Repo URL
->
+    https://github.com/Lesanth18/Team-7-Modern-Software-Development-Practices
+
 > - Kindly submit the Live Application URL (Domain)
->
+    http://bugbuddy.codewithpraveen.dev/
+
 > - Kindly submit the GitHub Pages (Documentation) URL
+    https://lesanth18.github.io/Team-7-Modern-Software-Development-Practices/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
+  https://www.linkedin.com/posts/lesanth-n-601907321_softwaredevelopment-fullstack-aidevelopment-ugcPost-7444603216127913984-OBTq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFF4bqEBWmk9hWahJZ0UaXXXQ5E_hjzU2UE
 
 ## For Second Year Buddies
 
